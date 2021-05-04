@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# List of Module available in Application 
+- Debouncing
+- Multiple Card Generator
+## Getting Started with Multi Module React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
